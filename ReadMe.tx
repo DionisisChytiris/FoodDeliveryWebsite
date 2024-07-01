@@ -1,0 +1,22 @@
+Start the app:
+    cd frontend
+    npm run dev
+
+Start the app:
+    cd backend
+    npm run server
+
+
+Start the app:
+    cd admin
+    npm run dev
+
+
+
+
+Testing Users Login Credential
+user1: dio@dio.gr
+       12345678
+
+user2: dionysis@yaho.hk
+       12345678

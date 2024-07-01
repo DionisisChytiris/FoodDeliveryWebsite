@@ -1,0 +1,3 @@
+Start the app:
+    cd frontend
+    npm run dev
